@@ -1,7 +1,21 @@
 .body{
-    margin:0px;
+    margin:0%;
 }
 
 .all{
+    margin:0%;
     background-color:rgb(50,27,29);
+}
+.logo{
+    padding-top:25%;
+    text-align:center;
+    width:42%;
+}
+.icon{
+    padding-left:4,4%;
+    padding-top:16%;
+    width:19%;
+}
+.interativ{
+    padding-bottom:32%;
 }
