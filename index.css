@@ -7,9 +7,11 @@
     background-color:rgb(50,27,29);
 }
 .logo{
-    padding-top:25%;
-    text-align:center;
+    padding-top:2.5%;
     width:42%;
+}
+.top{
+    vertical-align:center;
 }
 .icon{
     padding-left:4,4%;
