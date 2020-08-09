@@ -12,18 +12,40 @@ main{
  main > img{
      width: 40%;
      float: left;
+     padding-top: 10%;
  }
 
  section{
      vertical-align: middle;
+     font-size: 30px;
+     font-style: normal;
+     text-decoration: none;
+     color: white;
+     transition: 0.5s;
+ }
+
+ selection:hover {
+     color: orange;
+     font-size: 40
  }
  .icone{
      width: 10%;
+     float: left;
+     padding-top: calc(40% / 2);
  }
 
- p{
-     display: inline;
+ .perfil{
+     padding-top: 25%;
+     padding-left: 51%;
  }
- footer{
+
+ footer {
      display: inline-block;
+ }
+
+ footer > p{
+    float: left;
+}
+ footer > img{
+     width: 5%;
  }
