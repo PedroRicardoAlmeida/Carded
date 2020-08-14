@@ -29,27 +29,34 @@ main{
  }
 
  .perfil{
-     font-size: 30px;
+     font-size: 200%;
      font-style: normal;
-     text-decoration: none;
+     font-family: 'Roboto', sans-serif;
+     text-decoration: underline rgb(50,27,29);
      color: white;
      transition: 0.5s;
      padding-top: 3%;
  }
 
  .perfil:hover {
-    font-size: 40px;
+    font-size: 250%;
     text-decoration: underline white;
 }
 
  footer {
-     padding-top: 5%;
+     clear: left;
+     padding-top: 10%;
+     text-align: center;
  }
 
  footer > p{
-    float: left;
-    font-size: 50px;
+    display: block;
+    font-size: 300%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
 }
  footer > img{
+     margin: 0;
+     display: block;
      width: 5%;
  }
