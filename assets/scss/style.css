@@ -45,13 +45,10 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-* {
+.roboto {
   font-family: 'Roboto Slab', sans-serif; }
 
 .logo {
-  width: 25em; }
-
-.links {
-  padding: 0 !important; }
+  width: 50%; }
 
 /*# sourceMappingURL=style.css.map */
